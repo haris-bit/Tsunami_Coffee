@@ -126,7 +126,11 @@ footer .container {
     margin: 0;
   }
 
-  footer .container {
+  footer nav {
     display: none;
+  }
+
+  footer .container .copyright {
+    margin: 0 auto;
   }
 }
